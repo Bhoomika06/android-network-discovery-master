@@ -225,7 +225,7 @@ public class NetInfo {
     // public String getBroadcastIp() {
     // return getIpFromIntSigned((dhcp.ipAddress & dhcp.netmask) |
     // ~dhcp.netmask);
-    // }
+    // } test
 
     // public Object getGatewayIp() {
     // return getIpFromIntSigned(dhcp.gateway);
